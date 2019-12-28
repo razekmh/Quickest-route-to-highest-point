@@ -11,6 +11,13 @@ The authorities provided the developers with a Digital Elevation Model (DEM) of 
 
 *** 
 ## Installation
+1. Download the repo.
+2. Unzip the [elevation.7z](Quickest-route-to-highest-point/material/elevation/) file inside the [/material/elevation/](https://github.com/razekmh/Quickest-route-to-highest-point/tree/master/material/elevation)
+3. Make sure you have the correct dependencies installed
+4. Run the [interface.ipynb](https://github.com/razekmh/Quickest-route-to-highest-point/blob/master/interface.ipynb) notebook. 
+
+## Dependencies
+
 The program is using a list of geospatial libraries - listed below -. Some of the libraries are known to have installation issues and conflicts. Please do use a package management system like [anaconda](https://www.anaconda.com/) or use the recommended versions. 
 
 The program was tested using the following versions: 
@@ -30,3 +37,5 @@ The program was tested using the following versions:
 | rtree         |0.9.3|
 | numpy         |1.17.4+mkl|
 | scipy         |1.4.1|
+
+
