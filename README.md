@@ -13,7 +13,8 @@ The authorities provided the developers with a Digital Elevation Model (DEM) of 
 
 *** 
 ## Installation
-1. Download the repository using the following code
+1. Download the repository using the following code 
+
 ``` git clone https://github.com/razekmh/Quickest-route-to-highest-point.git ```
 
 2. Unzip the [elevation.7z](Quickest-route-to-highest-point/material/elevation/) file inside the [/material/elevation/](https://github.com/razekmh/Quickest-route-to-highest-point/tree/master/material/elevation)
