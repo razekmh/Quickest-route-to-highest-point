@@ -15,6 +15,10 @@ The authorities provided the developers with a Digital Elevation Model (DEM) of 
 2. Unzip the [elevation.7z](Quickest-route-to-highest-point/material/elevation/) file inside the [/material/elevation/](https://github.com/razekmh/Quickest-route-to-highest-point/tree/master/material/elevation)
 3. Make sure you have the correct dependencies installed
 4. Run the [interface.ipynb](https://github.com/razekmh/Quickest-route-to-highest-point/blob/master/interface.ipynb) notebook. 
+5. Run the first cell, and enter coordinates.
+
+The notebook should look like this when the code run correctly 
+![Interface](https://github.com/razekmh/Quickest-route-to-highest-point/blob/master/images/interface-ipynb.png "Interface")
 
 ## Dependencies
 
