@@ -19,4 +19,14 @@ The program was tested using the following versions:
 | ------------- |:-------------:|
 | OS            |Windows 10 64x|
 | python        |3.7 64x|
+| GDAL          |3.0.2|
+| Fiona         |1.8.13|
+| pyproj         |2.4.2|
+| Shapely       |1.6.4|
 | cartopy       |0.17.0|
+| geopandas     |0.6.2|
+| networkx      |2.4|
+| rasterio      |1.1.2|
+| rtree         |0.9.3|
+| numpy         |1.17.4+mkl|
+| scipy         |1.4.1|
