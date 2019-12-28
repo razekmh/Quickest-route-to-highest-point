@@ -19,6 +19,7 @@ The authorities provided the developers with a Digital Elevation Model (DEM) of 
 
 The notebook should look like this when the code run correctly 
 ![Interface](https://github.com/razekmh/Quickest-route-to-highest-point/blob/master/images/interface-ipynb.png "Interface")
+***
 
 ## Dependencies
 
