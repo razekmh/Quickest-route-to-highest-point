@@ -9,7 +9,7 @@ The program is deigned to help in a emergency situation where an extreme flood i
 
 The authorities provided the developers with a Digital Elevation Model (DEM) of the island, road network,  Integrated Transport Network (ITN) file and a raster map of the island. 
 
-**The program must be self contained and run completely offline. No use of online mapping services is allowed**
+**The program must be self-contained and run completely offline. No use of online mapping services is allowed**
 
 *** 
 ## Installation
